@@ -35,3 +35,12 @@ button{
 button:hover{
     background-color: rgb(189, 189, 189);
 }
+.para{
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+

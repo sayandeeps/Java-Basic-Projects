@@ -65,3 +65,7 @@ const remPara=()=>{
     
     
 }
+addEventListener("contextmenu",(e)=>{
+    e.preventDefault();
+    container.style.filter="blur(10px)"
+});

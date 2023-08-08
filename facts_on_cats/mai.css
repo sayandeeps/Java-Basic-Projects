@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(187, 187, 140);
+}
+.container{
+    background-color: aliceblue;
+    width: 70%;
+    margin: auto;
+    min-height: 100vh;
+    padding: 30px;
+    box-sizing: border-box;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 30px;
+}
+.vert{
+    margin-top: 30px;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border: 1px solid rgb(203, 202, 201);
+    font: 100 1.1rem sans-serif;
+    outline: none;
+    cursor: 10px;
+    color: rgb(12, 12, 12);
+    background-color: rgb(193, 237, 222);
+    transition: 0.3s;
+}
+button:hover{
+    background-color: rgb(66, 94, 79);
+    color: rgb(255, 255, 255);
+}
+p{
+    font-family: sans-serif;
+    border: 0px;
+    text-align: center;
+    text-size-adjust: 20px;
+}
+
